@@ -1,0 +1,5 @@
+Repository: beepmedia/mcp/mcp-dev/mcp-perplexity
+Full path: /Users/andreihasna/Dev/beepmedia/mcp/mcp-dev/mcp-perplexity
+
+  • Has uncommitted changes
+---
